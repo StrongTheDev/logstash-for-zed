@@ -8,4 +8,4 @@ repository = "https://github.com/StrongTheDev/logstash-for-zed"
 
 [grammars.logstash]
 repository = "https://github.com/StrongTheDev/tree-sitter-logstash"
-commit = "d8abb4bdc1c37977b98ef515c0d067c878a5129a"
+commit = "8b006600ee5499c9e190cd4e2d7e12b499399958"
