@@ -31,6 +31,8 @@
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
 (string) @string
+(string_var) @variable.special
+(field_reference) @embedded @property
 (number) @number
 (boolean) @constant
 

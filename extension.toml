@@ -1,11 +1,11 @@
 id = "logstash"
 name = "Logstash"
-version = "0.0.1"
+version = "0.0.2"
 schema_version = 1
 authors = ["Agani Daniel Strong <adhueywilan@gmail.com>"]
-description = "Logstash pipeline config file support"
+description = "Logstash pipeline config file syntax highlighting support"
 repository = "https://github.com/StrongTheDev/logstash-for-zed"
 
 [grammars.logstash]
 repository = "https://github.com/StrongTheDev/tree-sitter-logstash"
-commit = "8b006600ee5499c9e190cd4e2d7e12b499399958"
+commit = "e2964e15f2dc19322636f5920e3bd6d28dfae415"
