@@ -1,6 +1,7 @@
 name = "Logstash Config"
 grammar = "logstash"
 path_suffixes = ["conf"]
+first_line_pattern = '^(input|filter|output) \{'
 line_comments = ["# "]
 tab_size = 2
 # autoclose_before = ",=)}]"
