@@ -1,6 +1,6 @@
 id = "logstash"
 name = "Logstash"
-version = "0.0.2"
+version = "0.0.3"
 schema_version = 1
 authors = ["Agani Daniel Strong <adhueywilan@gmail.com>"]
 description = "Logstash pipeline config file syntax highlighting support"
